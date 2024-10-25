@@ -1,6 +1,11 @@
-clonamos el repositorio q queremos con clone
-nos metemos dentro con cd
-con git remotr add origin metemos nuesyto repositorio remoto de git
-comprobamos lso repositorios con remote -v
-ahora podemos editar el readme con el intelliji
-y hacemos commit y hacemos un push.
+1. Clonamos el repositorio que queremos con `git clone`.
+
+2. Nos metemos dentro con `cd`.
+
+3. Con `git remote add origin` agregamos nuestro repositorio remoto de Git.
+
+4. Comprobamos los repositorios con `git remote -v`.
+
+5. Ahora podemos editar el `README` con IntelliJ.
+
+6. Hacemos un **commit** y luego hacemos un **push**.
